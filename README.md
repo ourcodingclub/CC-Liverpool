@@ -3,6 +3,8 @@ This repository holds the materials for the British Ecological Society Quantitat
 
 The tutorial is available here: https://ourcodingclub.github.io/2018/12/02/tidyverse.html
 
+Living Planet Index data used as part of the tutorial can be accessed here: http://www.livingplanetindex.org/home/index 
+
 We would love to hear your feedback on the tutorial: 
 https://www.surveymonkey.com/r/XD85MW5
 
